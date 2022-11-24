@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["MelanCholy", "p1", [115, 115, 115]],
+		["Cynical", "p2", [115, 115, 115]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "cor",
+
+	"storyName": "sans dusttrust",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"difficulties": "hard",
+	"hideFreeplay": false
+}
