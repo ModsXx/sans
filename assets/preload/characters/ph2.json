@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				70,
+				10
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "idle",
+			"indices": [],
+			"name": "S Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				114,
+				5
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "S Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				4
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "S Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				9
+			],
+			"anim": "singUP",
+			"fps": 14,
+			"name": "S Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "S Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				9
+			],
+			"anim": "sword to mic",
+			"fps": 14,
+			"name": "S Animat",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				10
+			],
+			"anim": "blocked",
+			"fps": 30,
+			"name": "blocked",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/phase_2",
+	"position": [
+		-460,
+		-240
+	],
+	"healthicon": "p2",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		-600,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 2.1
+}
